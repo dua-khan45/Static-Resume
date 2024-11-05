@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* custom scrollbar */
+::-webkit-scrollbar{
+    widht: 5px;
+    border: radius 50px;
+}
+::-webkit-scrollbar-track{
+    background-color: gray;
+}
+::-webkit-scrollbar-track{
+    background-color: black;
+    border-radius: 10;
+}
+
+
+
