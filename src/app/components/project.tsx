@@ -29,7 +29,7 @@ const project =()=>{
             <CardTitle text-2xl font-semibold tracking-tight>Projects</CardTitle>
            
           </CardHeader>
-          <CardContent className="space-y-2">
+          <CardContent className="space-y-2 bg-white">
           <section className="text-gray-600 body-font">
   <div className="container px-5 py-24 mx-auto">
     <div className="flex flex-col text-center w-full mb-20">

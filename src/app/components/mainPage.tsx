@@ -14,7 +14,7 @@ const MainPage = () => {
     });
   }, []); 
     return (
-    <div className="flex overflow-hidden h-screen">
+    <div className="flex overflow-hidden h-screen bg-white">
       {/* side barr */}
 <div className="w-1/5"> 
   <Sidebar/>

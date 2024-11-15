@@ -28,63 +28,44 @@ const Experience =()=>{
             <CardTitle text-2xl font-semibold tracking-tight>Experience</CardTitle>
            
           </CardHeader>
-          <CardContent className="space-y-2">
+          <CardContent className="space-y-2 bg-black">
           <section className="text-gray-600 body-font overflow-hidden">
   <div className="container px-5 py-24 mx-auto">
     <div className="-my-8 divide-y-2 divide-gray-100">
       <div className="py-8 flex flex-wrap md:flex-nowrap">
         <div className=" justify-center md:w-64 md:mb-0 mb-6 flex-shrink-0 flex flex-col">
-          <span className="font-semibold title-font text-gray-700 uppercase">
+          <span className="font-semibold title-font text-white underline ">
             Anaesthesia Technician
           </span>
           <span className="mt-1 text-gray-500 text-sm"></span>
         </div>
         <div className="md:flex-grow">
-          <h2 className="text-2xl font-medium text-gray-900 title-font mb-2">
+          <h2 className="text-2xl font-medium text-white title-font mb-2 underline">
             Sindh Goverment Hospital Karachi
           </h2>
-          <p className="leading-relaxed">
-          one
+          <p className="leading-relaxed text-white">
+          (2022-2023)<br></br>
+          (  one year  )
 
           </p>
           
         </div>
       </div>
-      <div className="py-8 flex flex-wrap md:flex-nowrap">
-        <div className="justify-center md:w-64 md:mb-0 mb-6 flex-shrink-0 flex flex-col">
-          <span className="font-semibold title-font text-gray-700 uppercase justify-center" >
-            Anaesthesia Tecnhician
-          </span>
-          <span className="mt-1 text-gray-500 text-sm">12 Jun 2024</span>
-        </div>
-        <div className="md:flex-grow">
-          <h2 className=" text-2xl font-medium text-gray-900 title-font md-2">
-         Sindh Goverment Hospital karachi
-          </h2>
-          <p className="leading-relaxed">
-          Anesthesia technology is a specialized field within healthcare that focuses on assisting anesthesiologists and ensuring safe and effective administration of anesthesia. Here are some important aspects of anesthesia technology:
- Patient Safety: Anesthesia technicians play a crucial role in patient safety by preparing, maintaining, and troubleshooting anesthesia equipment and monitoring devices. Their work ensures that anesthesia is delivered accurately and safely.
- Equipment Management: They handle and maintain anesthesia machines, monitors, ventilators, and other vital equipment, ensuring they are functioning correctly and prepared for use during surgeries or procedures.
-
-          </p>
-        </div>
-      </div>
+     
       <div className="py-8 flex flex-wrap md:flex-nowrap ">
         <div className=" justify-center md:w-64 md:mb-0 mb-6 flex-shrink-0 flex flex-col">
-          <span className="font-semibold title-font text-gray-700  ">
-            TEACHER
+          <span className="font-semibold title-font text-white underline  ">
+            Teaching
           </span>
-          <span className="text-sm text-gray-500">18 oct 2022</span>
+          <span className="text-sm text-gray-500"></span>
         </div>
         <div className="md:flex-grow">
-          <h2 className="text-2xl font-medium text-gray-900 title-font mb-2">
+          <h2 className="text-2xl font-medium text-white title-font mb-2 underline ">
             Shaheen Educational World School
           </h2>
-          <p className="leading-relaxed">
-          A good teacher possesses several qualities that make them an effective educator. Here are some important characteristics:
- Strong Communication Skills - A good teacher should be able to convey their ideas clearly and effectively. Their way of explaining concepts should make it easy for students to understand, and they should encourage students to ask questions comfortably.
- Patience and Tolerance - Each student has a unique pace and style of learning. A teacher should be patient and understanding, answering questions calmly and teaching in a way that suits the student’s comprehension level.
-
+          <p className="leading-relaxed text-white">
+         (2018-2022)<br></br>
+         (4 years)
           </p>
         </div>
       </div>
